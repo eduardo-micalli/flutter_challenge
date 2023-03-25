@@ -3,7 +3,6 @@
 <div align="center">
     <p>This project is a resolution of a code challenge</p>
 </div>
-A new Flutter project.
 
 ## Challenge 🔗
 
